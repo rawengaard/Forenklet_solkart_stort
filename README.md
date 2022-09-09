@@ -9,7 +9,7 @@ bygninger også vil få en markering som om man har direkte siktlinje til solen,
 
 Kartet er publisert på GitHub, i dimensjoner som passer de fleste smarttelefoner. 
 
-Lenke til kartet: https://rawengaard.github.io/Forenklet_solkart/#9/59.9832/10.6828
+Lenke til kartet: https://rawengaard.github.io/Forenklet_solkart_stort/
 
 ----------------------------------------------------------
 
@@ -21,4 +21,4 @@ The map has a Viewshed analysis based on the Norwegian Mapping Authority's digit
 
 The map is published on GitHub, in dimensions suitable for most smart phones.
 
-Link for the map: https://rawengaard.github.io/Forenklet_solkart/#9/59.9832/10.6828
+Link for the map: https://rawengaard.github.io/Forenklet_solkart_stort/
